@@ -5,8 +5,8 @@ for line in gruztext:
     cash = line.replace('\t', '').split(sep=' ')
     vec.update({cash[0]:cash[2]})
 #print(vec)
-print(vec.keys())
-stin = ['asdasd']
+#print(vec.keys())
+#stin = ['asdasd']
 gruztext.close()
 gruzstih = open('gruzstih.txt', 'r', encoding='utf-8').read()
 #print(gruzstih)
