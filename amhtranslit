@@ -1,0 +1,23 @@
+amh = open('amhnobom.txt', 'r', encoding = 'utf-8')
+vowels = ['ä', 'u', 'i', 'a', 'e', 'ə', 'o']
+dct = {}
+for line in amh:
+    cash = line.replace('\n','').split('\t')
+    counter = 0
+    for i in vowels:
+        cash1 = cash[0]+i
+    
+        dct.update({cash[counter+1]:cash1})
+        counter = counter + 1     
+print(dct)
+    
+amh.close()
+amht = open('amht.txt', 'r', encoding = 'utf-8').read()
+perevod = ''
+for char in amht:
+    if char in list(dct.keys()):
+        char = dct[char]
+        perevod = perevod + char
+    else:
+        perevod = perevod + char
+print(perevod)
