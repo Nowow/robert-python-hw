@@ -1,0 +1,25 @@
+import re
+
+pgtxt = open('irland.html','r',encoding = 'utf-8').read()
+pgtxt = pgtxt.replace('\n',' ').replace('\t','')
+rgxphead = 'headword_id=".*?">.*?<'
+rgxpform = 'Forms:.*?<'
+z = re.findall(rgxphead, pgtxt)
+c = re.findall(rgxpform, pgtxt)
+#print(c)
+#print(z)
+substrr = '>.*?<'
+head = re.findall(substrr,z[0])
+head = head[0][2:-1].replace(' ','')
+iid = re.findall('".*?"',z[0])
+iid = iid[0][1:-1]
+forms = re.findall(':.*?<', c[0])
+forms = forms[0][1:-1].replace(' ','')
+forms = forms.split(',')
+print(forms)
+print(head)
+print(iid)
+irdict = {}
+for i in forms:
+    irdict.update({i:(head,iid)})
+print(irdict)
