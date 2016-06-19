@@ -1,0 +1,200 @@
+Денис	Желнов	5.3.1998	2	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Мария	Козлова	28.4.1992	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Елена	Гроссу	23.6.1996	1	{'type': 'university', 'name': 'БИСГУ им. Чернышевского (бывш. БГПИ)', 'id': 526422}	2	{'religion': 'Светский гуманизм', 'life_main': 6, 'political': 5}	
+Юлия	Маркова	24.3	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Пахлавон	Умаров	3.6	2	SPACE_FOR_SALE 	6	[]	
+Алёна	Морозова	SPACE_FOR_SALE 	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Анна	Барышкова	26.10.1994	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Фёдор	Дондуков	17.8	2	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Антон	Лагутин	1.12.1999	2	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Миша	Анохин	6.3	2	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Танечка	Абрамова	24.3	1	{'type': 'university', 'name': 'БИСГУ им. Чернышевского (бывш. БГПИ)', 'id': 526422}	2	{'political': 3}	
+Данил	Маклаков	SPACE_FOR_SALE 	2	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Анастасия	Торопова	8.10.1993	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Оля	Желнова	22.11	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Алена	Торопова	25.1	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Макс	Паук	30.3	2	SPACE_FOR_SALE 	6	{'alcohol': 1, 'people_main': 2, 'smoking': 1, 'life_main': 1}	
+Янна	Жуликова	19.12.1991	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Александр	Самсонов	1.2	2	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Лена	Князькова	28.12.1997	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Екатерина	Ивановна	12.3.1989	1	SPACE_FOR_SALE 	4	[]	
+Оксаночка	Хаванская	27.5	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Екатерина	Страдымова	10.10.1996	1	{'type': 'university', 'name': 'БИСГУ им. Чернышевского (бывш. БГПИ)', 'id': 526422}	7	[]	
+Юляшка	Королёва	16.5	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Вячеслав	Эллерт	14.1.1994	2	{'type': 'work', 'name': 'АО «ТАНДЕР» | МАГНИТ: сотрудники и покупатели', 'id': 7307885}	1	{'alcohol': 4, 'people_main': 1, 'political': 3, 'smoking': 4, 'life_main': 1}	
+Максим	Лис	5.2.1998	2	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Илья	Быстров	28.1.1992	2	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Татьяна	Федосеева	2.12.1995	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Алёна	Нестерова	29.8.1996	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Данил	Коновалов	SPACE_FOR_SALE 	2	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Анастасия	Патрикеева	13.7.1996	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Юлия	Курбатова	13.4.1996	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Наталья	Булатова	1.5.1997	1	{'type': 'work', 'name': 'Мир Добрых Людишек', 'id': 116742883}	0	{'life_main': 5, 'political': 3, 'smoking': 1}	
+Мария	Кузьмичева-Бондаренко	4.5.1992	1	SPACE_FOR_SALE 	4	{'religion': 'Православие'}	
+Илья	Гаранин	12.1.1997	2	{'type': 'school', 'name': 'Школа №3 (бывш. 53)', 'id': 63657.0}	6	{'life_main': 1, 'inspired_by': 'Футбол', 'smoking': 1, 'religion': 'Православие', 'people_main': 2, 'alcohol': 1, 'langs': ['Русский', 'English']}	
+Георгий	Нагорнов	22.8.1996	2	{'type': 'work', 'name': 'WebM ⚡', 'id': 99126464}	2	{'religion': 'Православие', 'alcohol': 5, 'political': 3, 'smoking': 1}	
+Иван	Шумарин	27.5.1994	2	{'type': 'work', 'name': 'ЮВ ДРП Ц ДРП филиал ОАО"РЖД" ПМС-№35'}	1	{'alcohol': 2}	
+Андрюха	Бочагов	4.5	2	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Елена	Шишканова	21.2	1	{'type': 'university', 'name': 'СГЮА (бывш. СГАП, СГЮИ им. Курского)', 'id': 795}	4	{'religion': 'Христианство'}	
+Никита	Акинин	SPACE_FOR_SALE 	2	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Денис	Говорунов	8.3.1998	2	SPACE_FOR_SALE 	6	{'life_main': 1, 'political': 3, 'inspired_by': 'мечты', 'smoking': 1, 'alcohol': 1, 'people_main': 2}	
+Валентина	Полухина	21.10	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Виктория	Рубова	15.9	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Оксана	Жега	17.11.1991	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Сергей	Иванов	1.9.1996	2	SPACE_FOR_SALE 	1	{'alcohol': 2, 'people_main': 2, 'political': 3, 'smoking': 2, 'life_main': 1}	
+Марина	Леонова	22.12	1	{'type': 'work', 'name': 'филиал "РДК"  МРУК "ЦКС" Аркадакского района'}	0	{'life_main': 6, 'political': 4, 'smoking': 2, 'religion': 'Православие', 'people_main': 5, 'alcohol': 2}	
+Максим	Логочев	22.7.2001	2	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Танюша	Мельникова	19.10.2002	1	{'type': 'school', 'name': 'Школа №2', 'id': 45171.0}	0	{'alcohol': 1, 'people_main': 2, 'smoking': 1, 'life_main': 1}	
+Елизавета	Вольская	6.4	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Аленочка	Спиренкова-Иванова	8.1.1996	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Юлия	Пузикова	12.5.2002	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Николай	Серобабенко	16.2.2000	2	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Лера	Штапова	30.7	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Ксения	Бондарева	19.7	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Юлия	Шлапокова	SPACE_FOR_SALE 	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Даниил	Садков	6.12	2	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Надежда	Шевчук	30.11.1997	1	{'type': 'university', 'name': 'БИСГУ им. Чернышевского (бывш. БГПИ)', 'id': 526422}	6	{'life_main': 1, 'political': 2, 'inspired_by': 'танцы и прогулки', 'smoking': 1, 'religion': 'Православие', 'people_main': 5, 'alcohol': 1}	
+Екатерина	Власова	SPACE_FOR_SALE 	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Оля	Медведева	6.12	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Мария	Гнусарева	SPACE_FOR_SALE 	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Александра	Фетисова	16.10	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Мария	Хамова	25.11	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Настя	Черкасова	17.2	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Еленка	Екатеринушкина	30.10	1	{'type': 'university', 'name': 'МГУ', 'id': 2}	6	{'alcohol': 4, 'people_main': 2, 'smoking': 2, 'life_main': 1}	
+Дашулька	Новикова	23.3	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Лада	Доненко	4.4	1	SPACE_FOR_SALE 	4	[]	
+Екатерина	Болтышева	SPACE_FOR_SALE 	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Кирилл	Шишканов	22.3	2	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Евгений	Бирюков	SPACE_FOR_SALE 	2	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Анастасия	Дихтяр	21.2.1990	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Ната	Грибова	1.2.1984	1	SPACE_FOR_SALE 	0	[]	
+Екатерина	Авдеева	23.6	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Юлия	Кирсанова	20.8.1998	1	SPACE_FOR_SALE 	7	{'life_main': 1, 'inspired_by': 'музыка, кино', 'smoking': 3, 'religion': 'Православие', 'people_main': 2, 'alcohol': 3, 'langs': ['Русский', 'Deutsch']}	
+Светлана	Фуженкова	12.8.1987	1	SPACE_FOR_SALE 	6	[]	
+Юлия	Мельникова	16.4.1995	1	SPACE_FOR_SALE 	0	[]	
+Надежда	Егорова	15.4	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Екатерина	Казанцева	4.3	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Полина	Нестерова	20.3	1	SPACE_FOR_SALE 	6	{'life_main': 1, 'political': 3, 'inspired_by': 'Танцы', 'smoking': 2, 'religion': 'Православие', 'people_main': 2, 'alcohol': 2, 'langs': ['Русский', 'Français']}	
+Алиночка	Иванова	SPACE_FOR_SALE 	1	{'type': 'work', 'name': 'Степная'}	4	[]	
+Сергей	Кравцов	19.4.1993	2	SPACE_FOR_SALE 	0	{'religion': 'Православие'}	
+Руслан	Тертерашвили	20.3	2	SPACE_FOR_SALE 	0	{'langs': ['Русский', 'ქართული', 'Հայերեն', 'Deutsch', 'English']}	
+Андрей	Скачков	15.9.1993	2	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Алёна	Сёмина	17.7	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Оля	Жукова	29.6.1990	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Яна	Савина	3.10	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Александр	Сычёв	26.1.1999	2	SPACE_FOR_SALE 	0	{'religion': 'Православие', 'people_main': 2, 'life_main': 4}	
+Полина	Алексеева	7.3	1	{'type': 'school', 'name': 'Школа №2', 'id': 45171.0}	0	{'life_main': 1, 'political': 3, 'smoking': 1, 'religion': 'Православие', 'people_main': 2, 'alcohol': 1, 'langs': ['Русский', 'English']}	
+Олег	Соловьев	17.5	2	{'type': 'school', 'name': 'Техникум механизации сельского хозяйства (БТМСХ)', 'id': 899686.0}	0	{'alcohol': 1, 'political': 3, 'smoking': 1, 'langs': ['Русский', 'English']}	
+Павел	Литвинов	28.6	2	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Наталья	Эделева	SPACE_FOR_SALE 	1	{'type': 'work', 'name': 'ЗАО "Тандер",магазин "Магнит"'}	4	{'life_main': 1, 'political': 3, 'smoking': 4, 'religion': 'Православие', 'people_main': 2, 'alcohol': 4}	
+Анна	Приходько	7.5	1	{'type': 'school', 'name': 'Школа №3 (бывш. 53)', 'id': 63657.0}	0	{'religion': 'Атеист', 'people_main': 6, 'alcohol': 4, 'smoking': 4, 'life_main': 6}	
+Виктор	Ларкин	SPACE_FOR_SALE 	2	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Макс	Ковалёв	4.7.1996	2	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Никита	Шишков	24.1.1998	2	{'type': 'university', 'name': 'НИУ СГУ им. Чернышевского', 'id': 801}	0	{'alcohol': 1, 'people_main': 6, 'smoking': 1, 'life_main': 3}	
+Светлана	Бондаренко	29.9	1	{'type': 'university', 'name': 'ПИУ им. Столыпина РАНХиГС (бывш. ПАГС)', 'id': 1167937}	0	[]	
+Миша	Бандуров	21.9	2	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Ирина	Калашникова	19.5.1992	1	{'type': 'university', 'name': 'НИУ СГУ им. Чернышевского', 'id': 801}	0	[]	
+Илья	Проневский	28.2	2	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Андрюша	Шорин	24.11	2	{'type': 'university', 'name': 'ВВИМО (бывш. ВВВУТ)', 'id': 209141}	7	{'religion': 'Я есть конфуций', 'political': 3}	
+Катерина	Бычик	19.8.1992	1	SPACE_FOR_SALE 	2	[]	
+Юлия	Русанова	4.8.1988	1	{'type': 'work', 'name': 'МОУ СОШ№1'}	5	{'life_main': 6, 'inspired_by': 'Моя дочурка', 'smoking': 4, 'religion': 'Православие', 'people_main': 2, 'alcohol': 3}	
+Серёга	Лавров	12.5	2	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Александра	Шапошникова	25.11	1	{'type': 'work', 'name': 'МБОУ-СОШ № 1 г. Аркадака'}	4	{'people_main': 2, 'political': 3, 'life_main': 1}	
+Юра	Шабловский	12.3.1993	2	SPACE_FOR_SALE 	0	{'life_main': 1, 'political': 3, 'smoking': 1, 'religion': 'христьянин', 'people_main': 5, 'alcohol': 4}	
+Александр	Куртушин	SPACE_FOR_SALE 	2	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Владимир	Алексеев	1.3.1993	2	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Юлия	Трошина	24.2.1988	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Наташа	Орлова	5.3.1998	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Александр	Субботин	30.10.1991	2	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Александр	Чернышов	23.6.1990	2	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Надежда	Остроухова	30.3.1992	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Алексей	Быковский	4.7.1992	2	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Елена	Максина	31.12.1993	1	{'type': 'university', 'name': 'БИСГУ им. Чернышевского (бывш. БГПИ)', 'id': 526422}	4	[]	
+Марина	Коваль	28.6	1	{'type': 'work', 'name': 'евросеть'}	4	{'political': 3}	
+Дмитрий	Богданов	9.6.1987	2	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Римма	Шишканова	12.6.1981	1	{'type': 'university', 'name': 'ПАГС им. Столыпина', 'id': 48284}	4	[]	
+Надюшка	Авилова	12.10.1991	1	SPACE_FOR_SALE 	7	[]	
+Владимир	Никитин	5.7.1982	2	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Кристина	Лытаева	19.1.1998	1	SPACE_FOR_SALE 	6	{'life_main': 1, 'political': 3, 'inspired_by': 'я сама и моя семья.', 'smoking': 3, 'religion': 'Православие', 'people_main': 2, 'alcohol': 2}	
+Екатерина	Сергеева	19.7	1	SPACE_FOR_SALE 	6	{'langs': ['Русский', 'English']}	
+Александр	Κрасильников	SPACE_FOR_SALE 	2	SPACE_FOR_SALE 	0	[]	
+Виктория	Штампель	29.1	1	{'type': 'school', 'name': 'Школа №2', 'id': 45171.0}	0	{'life_main': 1, 'smoking': 1, 'religion': 'Православие', 'people_main': 2, 'alcohol': 1, 'langs': ['Русский', 'Français', 'English']}	
+Даша	Светова	1.2.2000	1	{'type': 'school', 'name': 'Школа №2', 'id': 45171.0}	0	[]	
+Елена	Корженко	21.7.2002	1	SPACE_FOR_SALE 	0	[]	
+Василий	Кравцов	27.12.2002	2	SPACE_FOR_SALE 	7	[]	
+Ирина	Серёгина	21.11.2002	1	SPACE_FOR_SALE 	0	[]	
+Александр	Орлов	1.5.1985	2	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Михаил	Слепов	5.6.2002	2	{'type': 'school', 'name': 'Школа №1', 'id': 108241.0}	7	[]	
+Мария	Семеночкина	7.2	1	SPACE_FOR_SALE 	0	[]	
+Иван	Рудской	24.9	2	SPACE_FOR_SALE 	6	{'langs': ['Русский', 'English', 'अवधी', 'ܐܪܡܝܐ']}	
+Натали	Селиверстова	15.4.1994	1	{'type': 'work', 'name': 'RedeX.Red | Bitkoin | Новая жизнь', 'id': 114199628}	0	{'life_main': 1, 'inspired_by': 'мой сын', 'smoking': 2, 'religion': 'Православие', 'people_main': 1, 'alcohol': 2}	
+Светлана	Бирючкова	18.2	1	{'type': 'school', 'name': 'Профессиональное училище №50', 'id': 500131.0}	7	[]	
+Артурчик	Виноградов	21.8.1993	2	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Olj	Gaschnikova	9.6.2002	1	{'type': 'school', 'name': 'Школа №1', 'id': 108241.0}	0	{'life_main': 1, 'inspired_by': 'фильм', 'smoking': 1, 'religion': 'Православие', 'people_main': 5, 'alcohol': 1}	
+Алексей	Никифоров	11.9.1984	2	SPACE_FOR_SALE 	0	[]	
+Никита	Абаплов	27.2.2002	2	SPACE_FOR_SALE 	0	[]	
+Яна	Шафеева	21.12.2001	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Алена	Сухова	SPACE_FOR_SALE 	1	{'type': 'school', 'name': 'Медицинское училище №4', 'id': 222261.0}	6	{'langs': ['Русский', 'English']}	
+Юрий	Ибатуллин	13.1.1997	2	{'type': 'school', 'name': 'Профессиональное училище №50', 'id': 500131.0}	2	[]	
+Даша	Муканава	31.1.2002	1	SPACE_FOR_SALE 	0	[]	
+Константин	Пруцков	24.8	2	{'type': 'school', 'name': 'Школа №3 (бывш. 53)', 'id': 63657.0}	0	{'religion': 'Православие', 'alcohol': 4, 'inspired_by': 'я хз!', 'smoking': 2}	
+Vikaø	Shumkina	SPACE_FOR_SALE 	1	{'type': 'school', 'name': 'Школа №2', 'id': 45171.0}	0	[]	
+Алексей	Сисин	SPACE_FOR_SALE 	2	{'type': 'school', 'name': 'Школа №1', 'id': 108241.0}	0	[]	
+Наталья	Пилюгина	12.10.1993	1	SPACE_FOR_SALE 	4	[]	
+Ксения	Ефремова	26.6	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Дашенька	Константиновна	16.5.1993	1	SPACE_FOR_SALE 	0	[]	
+Настя	Сурикова	28.3.2002	1	{'type': 'work', 'name': 'друзья', 'id': 121217719}	0	{'alcohol': 1, 'people_main': 2, 'inspired_by': 'пони, ледибаг и супер кот, собачки и кошечки', 'smoking': 1}	
+Александр	Мистратов	9.7.2001	2	SPACE_FOR_SALE 	0	[]	
+Антон	Тимонин	SPACE_FOR_SALE 	2	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Руслан	Гончаров	30.11	2	SPACE_FOR_SALE 	0	[]	
+Анастасия	Лагутина	13.9.2001	1	{'type': 'school', 'name': 'Школа №3 (бывш. 53)', 'id': 63657.0}	0	[]	
+Александра	Дунаева	5.8	1	SPACE_FOR_SALE 	7	[]	
+Николай	Ларкин	30.7.2001	2	{'type': 'school', 'name': 'Школа №1', 'id': 108241.0}	6	{'life_main': 1, 'political': 2, 'inspired_by': 'Природа', 'smoking': 1, 'religion': 'Православие', 'people_main': 2, 'alcohol': 1}	
+Светлана	Вениаминовна	22.10.1988	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Яна	Александровна	29.10.1996	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Илья	Капитонов	12.10	2	{'type': 'school', 'name': 'Школа №2', 'id': 101353.0}	7	[]	
+Артём	Еременко	5.5.2001	2	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Юля	Гаврилова	15.3	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Настя	Химченко	21.9	1	SPACE_FOR_SALE 	0	{'life_main': 6, 'inspired_by': 'Никто и ничто', 'smoking': 2, 'alcohol': 2, 'people_main': 2, 'langs': ['Русский', 'Українська']}	
+Арман	Амбарян	17.5.2000	2	{'type': 'school', 'name': 'Школа №2', 'id': 45171.0}	6	[]	
+Николай	Меньшиков	2.12	2	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Людмилка	Мищенко	12.7	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Марина	Синина	2.10	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Дарья	Венидиктова	9.2	1	SPACE_FOR_SALE 	0	{'langs': ['Русский', 'Deutsch']}	
+Вера	Кикалишвили	13.6	1	SPACE_FOR_SALE 	0	[]	
+Анастасия	Пономарёва	13.2.1999	2	SPACE_FOR_SALE 	7	[]	
+Владислав	Серебряков	14.3	2	{'type': 'school', 'name': 'Нижнеянская средняя школа', 'id': 58596.0}	6	{'religion': 'Православие', 'alcohol': 4, 'smoking': 4}	
+Ольга	Свинцова	SPACE_FOR_SALE 	1	SPACE_FOR_SALE 	4	[]	
+Вадим	Панченков	2.1	2	SPACE_FOR_SALE 	6	{'langs': ['Русский', 'English']}	
+Анастасия	Медведева	25.5	1	{'type': 'school', 'name': 'Школа №1', 'id': 108241.0}	6	{'religion': 'Православие', 'people_main': 2, 'alcohol': 1, 'smoking': 1, 'life_main': 1}	
+Алёна	Гашенко	12.4	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Алина	Айдамирова	19.1.2002	1	{'type': 'school', 'name': 'Школа №3 (бывш. 53)', 'id': 63657.0}	7	[]	
+Федор	Сприренков	22.2.1991	2	SPACE_FOR_SALE 	4	[]	
+Кристина	Козлова	29.5	1	{'type': 'school', 'name': 'Школа №3 (бывш. 53)', 'id': 63657.0}	0	[]	
+Денчик	Равилов	16.10	2	SPACE_FOR_SALE 	0	[]	
+Юрий	Ибатуллин	13.1.1997	2	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Полина	Сергевна	SPACE_FOR_SALE 	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Николай	Макаров	27.2.1999	2	{'type': 'school', 'name': 'Школа №1', 'id': 108241.0}	4	[]	
+Игорь	Ибатуллин	30.6.1998	2	{'type': 'school', 'name': 'Школа №3 (бывш. 53)', 'id': 63657.0}	4	[]	
+Зубарев	Анатолий	20.3.2002	2	SPACE_FOR_SALE 	0	[]	
+Илья	Гузеев	SPACE_FOR_SALE 	2	SPACE_FOR_SALE 	0	{'alcohol': 4, 'people_main': 6, 'smoking': 1, 'life_main': 6}	
+Алекс	Онгемах	23.10	2	SPACE_FOR_SALE 	0	[]	
+Таня	Илюшина	10.4	1	{'type': 'school', 'name': 'Школа №1', 'id': 108241.0}	0	{'people_main': 2}	
+Нинулька	Хохленкова	12.6.1982	1	SPACE_FOR_SALE 	0	[]	
+Саша	Шведов	SPACE_FOR_SALE 	2	{'type': 'school', 'name': 'Школа №3 (бывш. 53)', 'id': 63657.0}	0	[]	
+Юлия	Владимировна	6.3.1996	1	SPACE_FOR_SALE 	6	{'langs': ['Русский', 'English']}	
+Виктория	Лагутина	12.9	1	{'type': 'school', 'name': 'Школа №3 (бывш. 53)', 'id': 63657.0}	6	[]	
+Вова	Αлексеев	20.5	2	{'type': 'work', 'name': 'Команда ВКонтакте', 'id': 22822305}	2	{'life_main': 6, 'political': 4, 'inspired_by': 'Steve Jobs', 'smoking': 5, 'religion': 'Laissez-faire', 'people_main': 5, 'alcohol': 4, 'langs': ['Русский', 'English', 'Español']}	
+Кристина	Щукина	11.8	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Настя	Лукашева	4.1	1	{'type': 'school', 'name': 'Школа №1', 'id': 108241.0}	6	{'alcohol': 1, 'smoking': 1}	
+Егор	Мугрузин	31.7	2	{'type': 'school', 'name': 'Школа №3 (бывш. 53)', 'id': 63657.0}	6	{'life_main': 1, 'political': 3, 'inspired_by': 'музыка', 'smoking': 1, 'religion': 'Православие', 'people_main': 2, 'alcohol': 1}	
+Рома	Долгов	3.8.2002	2	{'type': 'school', 'name': 'Школа №3 (бывш. 53)', 'id': 63657.0}	6	[]	
+Максим	Юлин	15.6.1996	1	{'type': 'school', 'name': 'Школа №3 (бывш. 53)', 'id': 63657.0}	0	[]	
+Ольга	Зуйкова	5.1.2000	1	SPACE_FOR_SALE 	0	{'life_main': 5, 'political': 5, 'inspired_by': 'вдохновение само приходит.я его не ищу', 'smoking': 4, 'religion': 'в бога не верю-атеист', 'people_main': 5, 'alcohol': 3}	
+Ira	Anipirova	4.6.2001	1	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Alina	Tsapova	23.11	1	{'type': 'school', 'name': 'Школа №3 (бывш. 53)', 'id': 63657.0}	0	[]	
+Максим	Фролков	23.7	2	{'type': 'university', 'name': 'МГУ', 'id': 2}	1	[]	
+Ваня	Балашов	10.12	2	SPACE_FOR_SALE 	SPACE_FOR_SALE 	SPACE_FOR_SALE 	
+Анна	Стриковская	26.5.1988	1	SPACE_FOR_SALE 	0	{'life_main': 1, 'political': 3, 'smoking': 2, 'religion': 'Православие', 'people_main': 2, 'alcohol': 2}	
+Роман	Коробкин	SPACE_FOR_SALE 	2	SPACE_FOR_SALE 	1	[]	
+Влад	Шебалов	9.6	2	{'type': 'school', 'name': 'Школа №3 (бывш. 53)', 'id': 63657.0}	0	{'life_main': 1, 'political': 3, 'smoking': 1, 'religion': 'Православие', 'people_main': 2, 'alcohol': 1}	
