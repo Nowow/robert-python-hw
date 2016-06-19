@@ -7,8 +7,6 @@ import warnings
 import requests
 warnings.filterwarnings("ignore")
 
-access_token = 'd0f9367f038977d8456399bb734a4a6580e96d34d2c763bc13ecea68593ef5d15b0314d95f9dd482ab421'
-
 
 method_url = 'https://api.vk.com/method/users.search'
 pars = {
@@ -79,10 +77,10 @@ for person in user_data['response'][1:]:
                 wall_dump.write(post['text'].replace('<br>','\n'))
         except:
             wall_dump.write(str(wall_cash))
-            print('/????????')
+            print('probably too many requests at a time')
         wall_dump.close()
 
-people_table =  open('table_of_fame.txt', 'w')
+people_table =  open('vk_table_of_people.txt', 'w')
 people_table.write(string_cash)
 people_table.close()
             
