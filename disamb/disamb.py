@@ -2,6 +2,7 @@
 
 from bs4 import BeautifulSoup
 import re
+import operator
 
 jerome_klapka = open('/run/media/robert/1TB-1/linuxfolder/gitlair/robert-python-hw/disamb/jerome_parsed3', 'r')
 
@@ -71,6 +72,13 @@ class Word(object):
             
     def return_pad_freq(self, padej):
         return self.padej_list[padej]
+        
+    def max_count_padej(self):
+       return max(padej_list.iteritems(), key=operator.itemgetter(1))[0]
+            
+            
+            
+            
 it_was_prep = True
 it_is_prep = True
 prep_was = ''
@@ -117,4 +125,5 @@ for item in soup.find_all('ana'):
                     word_list[lex] = Word(prep_was, pad)
         else:
             it_is_prep = False
-        
+
+# CAN DO COOL THINGS! SOBIRAET, K KAKOMU SLOVU S PREDLOGOM SZADI KAKIE BILI PADEJI I IH 4ASTOTNOST'!
