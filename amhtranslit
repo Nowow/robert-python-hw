@@ -1,4 +1,4 @@
-amh = open('amhnobom.txt', 'r', encoding = 'utf-8')
+amh = open('amhnobom.txt', 'r', encoding = 'utf-8') # amhnobom - amharsk alphabet from wiki
 vowels = ['ä', 'u', 'i', 'a', 'e', 'ə', 'o']
 dct = {}
 for line in amh:
@@ -10,6 +10,7 @@ for line in amh:
         dct.update({cash[counter+1]:cash1})
         counter = counter + 1     
 print(dct)
+    
     
 amh.close()
 amht = open('amht.txt', 'r', encoding = 'utf-8').read()
