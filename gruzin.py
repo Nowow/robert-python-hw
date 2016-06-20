@@ -22,5 +22,6 @@ def gruztranslit(text = gruzstih):
     return perevod
 print(gruztranslit())
 #print(gruzstih)
+
 #print(perevod)
 #print(len(list(vec.keys())))
